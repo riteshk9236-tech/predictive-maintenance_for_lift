@@ -71,40 +71,6 @@ The system consists of the following components:
 
 ---
 
-## 📂 Project Structure
-
-```
-.
-├── data/            # Sensor datasets
-├── models/          # Trained ML models
-├── src/             # Core implementation
-├── dashboard/       # Visualization frontend
-├── docs/            # Documentation
-└── README.md
-```
-
----
-
-## 🚀 Getting Started
-
-### 1️⃣ Clone the Repository
-
-```
-git clone https://github.com/your-username/repo-name.git
-cd repo-name
-```
-
-### 2️⃣ Install Dependencies
-
-```
-pip install -r requirements.txt
-```
-
-### 3️⃣ Run the Project
-
-```
-python main.py
-```
 
 ---
 
