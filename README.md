@@ -66,7 +66,6 @@ The system consists of the following components:
 * **Software**:
 
   * Python (Data processing & ML)
-  * Verilog / FPGA (optional acceleration)
   * Web Dashboard (for visualization)
 
 ---
